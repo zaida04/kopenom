@@ -8,3 +8,6 @@ For practicing with Java, mostly with implementing stuff like LinkedLists. Done 
 
 ### How to run?
 Open in your favorite IDE and run the tests in src/test/java.
+
+### ⚖️ LICENSE
+> **Kopenom** © [zaida04](https://github.com/zaida04). Released under [WTFPL](https://github.com/zaida04/kopenom/blob/main/LICENSE)

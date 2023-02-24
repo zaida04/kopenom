@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dd2655e-8545-4d1f-b233-0a384f6abe8b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/kopenom/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kopenom/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +115,7 @@
       <updated>1677085478152</updated>
       <workItem from="1677085478294" duration="4579000" />
       <workItem from="1677090479505" duration="1281000" />
-      <workItem from="1677258958101" duration="1552000" />
+      <workItem from="1677258958101" duration="1758000" />
     </task>
     <servers />
   </component>
